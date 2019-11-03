@@ -1,5 +1,7 @@
 # Human-Invasion-game
- 
+
+The objective of this project was to test our knowledge of object orientation programming using Java.
+
 Class & Method Description:
 
 Frame class: 
